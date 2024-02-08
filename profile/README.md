@@ -29,3 +29,14 @@
 
 ### back
 <img src="https://img.shields.io/badge/Java-06B6D4?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F3?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/JPA-44A833?style=for-the-badge&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/JWT-44A833?style=for-the-badge&logo=JWT&logoColor=white"> <br> <img src="https://img.shields.io/badge/Spring Secutiry-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
+
+
+# Team members
+![image](https://github.com/Youth-Policy-recommendation-project/.github/assets/116700717/e62e3c23-5683-46bc-9e3d-acc1d00a5ccc)
+
+
+
+
+
+
