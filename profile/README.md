@@ -19,15 +19,13 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### chatbot
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/langchain-E34F26?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/langchain-E34F26?style=for-the-badge&logo=langchain&logoColor=white">
 
 ### front
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ### style
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
 
 ### back
 <img src="https://img.shields.io/badge/Java-06B6D4?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F3?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/JPA-44A833?style=for-the-badge&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/JWT-44A833?style=for-the-badge&logo=JWT&logoColor=white"> <br> <img src="https://img.shields.io/badge/Spring Secutiry-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
